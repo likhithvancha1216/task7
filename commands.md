@@ -12,3 +12,4 @@
 
 - Run malware scan (Windows example, PowerShell):
   Start-MpScan -ScanType FullScan
+  
