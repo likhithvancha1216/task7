@@ -32,3 +32,4 @@ Chrome browser had multiple extensions installed, including VPN tools, download 
 
 ## Conclusion  
 4 suspicious extensions were removed. Chrome browser was restored to a safe state with only essential, verified extensions.
+
