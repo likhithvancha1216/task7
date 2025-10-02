@@ -6,3 +6,4 @@
 | SaveFrom.net Helper     | ljdobmomdgdljniojadhoplhkpialdid | Modify downloads, read site data               | Removed      | Redirected YouTube downloads, violated Chrome policies       | 2025-10-02 |
 | Search Manager          | nmclchkhjafahnaedcmhhgopcpfjcnnp | Change search engine, control new tab          | Removed      | Forced default search redirects to unknown engines           | 2025-10-02 |
 | Super Ad Blocker (fake) | abcdefghijklmnopqrstu | Access to all sites, inject scripts            | Removed      | Fake ad blocker, inserted extra ads instead of blocking      | 2025-10-02 |
+
